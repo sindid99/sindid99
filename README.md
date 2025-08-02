@@ -12,7 +12,7 @@
 ### 💼 **Connect with me**
 
 - 📧 **Email:** srestho.29@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [Your LinkedIn Profile]((https://www.linkedin.com/in/md-sindid-rahman-9b236b369/))
 - **Portfolio:** [Your Portfolio Website](https://www.your-portfolio-website.com)
 
 ---
