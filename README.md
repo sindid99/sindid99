@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
   <img src="https://media.giphy.com/media/M9gC19P2iK6p0g0WqX/giphy.gif" width="60"/>
-  <h1>Hey there! I'm Md Sindid Rahman</h1>
+  <h1>Hey there! I'm Md.Sindid Rahman</h1>
   <h3>A passionate developer from Bangladesh 🇧🇩</h3>
 </div>
 
