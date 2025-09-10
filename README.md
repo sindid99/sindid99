@@ -13,7 +13,7 @@
 
 - 📧 **Email:** srestho.29@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/md-sindid-rahman-9b236b369/
-- **Portfolio:** [[https://sindid99.github.io/github-portfolio/])
+- **Portfolio:** https://sindid99.github.io/github-portfolio/
 
 ---
 
